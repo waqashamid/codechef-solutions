@@ -3,9 +3,6 @@
 # Kaggle: waqashamid
 # Contact: waqas7hamid@gmail.com
 
-import psyco
-psyco.full()
-
 import math
 def main():
     t = int(input())
